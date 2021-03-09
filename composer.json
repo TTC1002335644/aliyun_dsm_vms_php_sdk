@@ -1,0 +1,17 @@
+{
+    "name": "AliyunVendor/helper",
+    "authors": [
+        {
+            "name": "Bang",
+            "email": "1002335644@qq.com"
+        }
+    ],
+    "require": {
+    	"php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "AliyunVendor\\": "src/"
+        }
+    }
+}
